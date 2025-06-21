@@ -1,4 +1,3 @@
-
 package com.example.musicapp.Activity;
 
 import android.content.Intent;
